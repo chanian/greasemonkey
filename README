@@ -1,0 +1,7 @@
+All code is release under BMAB (preferably beer) license, or
+MIT if you choose to be a stickler.
+
+This repo contains all the standalone greasemonkey scrips I have writen which 
+are usually associated to usability blog posts on my website.  These scripts
+are also available at userscripts.org, but I thought I'd have them here as
+well so I can update them easier.
